@@ -1,0 +1,5 @@
+footer{
+    background: url("../../asstes/footer-wave.png") no-repeat, linear-gradient(225deg, #FFA301 0%, #F44 100%);
+    background-size: 100%;
+    background-position: bottom;
+}

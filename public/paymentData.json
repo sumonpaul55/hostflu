@@ -1,0 +1,162 @@
+{
+    "payment": [
+        {
+            "id": "FH-500",
+            "bank_name": "Bkash",
+            "bank_logo": "../../paymentLogo/bkash.png",
+            "qrCode": "../../paymentLogo/bkashqr.jpg",
+            "account_number": "+8801719375526",
+            "rule": "Rules",
+            "desc1": "Go to your BKASH mobile menu by dialing 247# or go to BKASH app. ",
+            "desc2": "Click on “Send Money.” ",
+            "desc3": "Enter this number as recipient number: +8801719375526 ",
+            "desc4": "Enter your amount: XXX (BDT)",
+            "desc5": "Enter your BKASH Mobile Menu PIN now to confirm. ",
+            "desc6": "If everything is OK, you will get a confirmation message from BKASH. "
+        },
+        {
+            "id": "FH-505",
+            "bank_name": "Nagad",
+            "bank_logo": "../../paymentLogo/nagad.png",
+            "qrCode": "../../paymentLogo/nagadqr.png",
+            "account_number": "+8801719375526",
+            "rule": "Rules",
+            "desc1": "Go to your NAGAD mobile menu by dialing *167# or go to NAGAD app. ",
+            "desc2": "Click on “Send Money.” ",
+            "desc3": "Enter this number as recipient number: +8801719375526 ",
+            "desc4": "Enter your amount: XXX (BDT)",
+            "desc5": "Enter your NAGAD Mobile Menu PIN now to confirm. ",
+            "desc6": "If everything is OK, you will get a confirmation message from NAGAD"
+        },
+        {
+            "id": "FH-506",
+            "bank_name": "Rocket",
+            "bank_logo": "../../paymentLogo/rocket.png",
+            "qrCode": "../../paymentLogo/rocketqr.jpg",
+            "account_number": "+8801719375526",
+            "rule": "Rules",
+            "desc1": "Go to your ROCKET mobile menu by dialing *322# or go to ROCKET app.",
+            "desc2": "Click on “Send Money.” ",
+            "desc3": "Enter this number as recipient number: +8801719375526",
+            "desc4": "Enter your amount: XXX (BDT)",
+            "desc5": "Enter your ROCKET Mobile Menu PIN now to confirm. ",
+            "desc6": "If everything is OK, you will get a confirmation message from ROCKET"
+        },
+        {
+            "id": "FH-503",
+            "bank_name": "Dutch Bangla Bank",
+            "bank_logo": "../../paymentLogo/dutch.png",
+            "qrCode": "../../paymentLogo/dutchbanglaqr.png",
+            "account_number": "1561510125434",
+            "rule": "Details",
+            "desc1": "Account Holder Name: Md Ashiqur Rahman",
+            "desc2": "A/C No:1561510125434",
+            "desc3": "Branch:Mymensingh",
+            "desc4": "",
+            "desc5": "",
+            "desc6": ""
+        },
+        {
+            "id": "FH-501",
+            "bank_name": "Brac Bank",
+            "bank_logo": "../../paymentLogo/brac.png",
+            "qrCode": "../../paymentLogo/bracqr.png",
+            "account_number": "4101103585472001",
+            "rule": "Details",
+            "desc1": "Account Holder Name: Md Ashiqur Rahman",
+            "desc2": "A/C No:4101103585472001",
+            "desc3": "Branch:Mymensingh",
+            "desc4": "",
+            "desc5": "",
+            "desc6": ""
+        },
+        {
+            "id": "FH-502",
+            "bank_name": "The City Bank",
+            "bank_logo": "../../paymentLogo/city.png",
+            "qrCode": "../../paymentLogo/cityqr.png",
+            "account_number": "2202763480001",
+            "rule": "Details",
+            "desc1": "Account Holder Name: Md Ashiqur Rahman",
+            "desc2": "A/C No:2202763480001",
+            "desc3": "Branch: Agent Banking",
+            "desc4": "",
+            "desc5": "",
+            "desc6": ""
+        },
+        {
+            "id": "FH-504",
+            "bank_name": "Estern Bank",
+            "bank_logo": "../../paymentLogo/estern.png",
+            "qrCode": "../../paymentLogo/esternbankqr.png",
+            "account_number": "1751070094270",
+            "rule": "Details",
+            "desc1": "Account Holder Name: TyTanHost.com",
+            "desc2": "A/C No:1751070094270",
+            "desc3": "Branch:Mymensingh",
+            "desc4": "Eastern Bank Ltd.",
+            "desc5": "",
+            "desc6": ""
+        },
+        {
+            "id": "FH-507",
+            "bank_name": "Wise",
+            "bank_logo": "../../paymentLogo/wise.png",
+            "qrCode": "../../paymentLogo/wiseqr.jpg",
+            "account_number": "ashiqur281@gmail.com",
+            "rule": "Rules",
+            "desc1": "Visit the Wise website or open the Wise mobile app and log in to your account using your email address and password.",
+            "desc2": "Click on “Send MoneySend money or Start a transfer.",
+            "desc3": "Provide your recipient's details, (ashiqur281@gmail.com)",
+            "desc4": "Verify your identity then confirm and track",
+            "desc5": "Your recipient will receive the money in their account once the transfer is complete",
+            "desc6": "If everything is OK, you will get a confirmation message from Wise"
+        }
+    ],
+    "team": [
+        {
+            "name": "Ashiqur Rahman",
+            "designation": "CEO",
+            "organization": "fluresta.com",
+            "image": "../../team/ashiqur.jpg",
+            "fbUrl": "https://www.facebook.com/ashiqur90",
+            "linkedinUrl": "",
+            "whatsApp": "+8801719375526",
+            "gitHub": "https://github.com/pothikit",
+            "proverbs": ""
+        },
+        {
+            "name": "Sumon Chandra Paul",
+            "designation": "Web Developer",
+            "organization": "fluresta.com",
+            "image": "../../team/sumonpaul.png",
+            "fbUrl": "https://www.facebook.com/sumonpaul55",
+            "linkedinUrl": "https://www.linkedin.com/in/sumonpaul5",
+            "whatsApp": "+8801628883217",
+            "gitHub": "https://github.com/sumonpaul55",
+            "proverbs": "Code is poetry, write it with elegance and precision."
+        },
+        {
+            "name": "Tanbirul Islam Zihad",
+            "designation": "Content Writer",
+            "organization": "fluresta.com",
+            "image": "../../team/zihad.jpg",
+            "fbUrl": "https://www.facebook.com/tanbirul.islamzihad",
+            "linkedinUrl": "",
+            "whatsApp": "+88013422442",
+            "gitHub": "",
+            "proverbs": "Pen is mighter than the sword"
+        },
+        {
+            "name": "Umme Salma",
+            "designation": "HR",
+            "organization": "fluresta.com",
+            "image": "../../team/ummesalma.png",
+            "fbUrl": "",
+            "linkedinUrl": "",
+            "whatsApp": "",
+            "gitHub": "",
+            "proverbs": "Try and fail but don't fail to try"
+        }
+    ]
+}

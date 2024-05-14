@@ -1,0 +1,338 @@
+{
+    "domainExtention": [
+        {
+            "id": "FH-500",
+            "extension": ".com",
+            "price": "$14.99"
+        },
+        {
+            "id": "FH-501",
+            "extension": ".net",
+            "price": "$14.99"
+        },
+        {
+            "id": "FH-502",
+            "extension": ".info",
+            "price": "$14.99"
+        },
+        {
+            "id": "FH-503",
+            "extension": ".org",
+            "price": "$14.99"
+        },
+        {
+            "id": "FH-504",
+            "extension": ".co",
+            "price": "$14.99"
+        },
+        {
+            "id": "FH-505",
+            "extension": ".me",
+            "price": "$14.99"
+        },
+        {
+            "id": "FH-506",
+            "extension": ".io",
+            "price": "$14.99"
+        },
+        {
+            "id": "FH-507",
+            "extension": ".gov",
+            "price": "$14.99"
+        },
+        {
+            "id": "FH-508",
+            "extension": ".biz",
+            "price": "$14.99"
+        },
+        {
+            "id": "FH-509",
+            "extension": ".edu",
+            "price": "$14.99"
+        }
+    ],
+    "exclusive": [
+        {
+            "id": 1,
+            "type": "Stellar",
+            "price": "$34.59/yr",
+            "discount": "Save 75% with 12/mo term",
+            "serviceName": "SHARED HOSTING",
+            "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+            "features": [
+                "20 GB SSD",
+                "3 Websites",
+                " Free CDN BETA",
+                "TLDs On Offer"
+            ]
+        },
+        {
+            "id": 2,
+            "type": "Reseller Hosting",
+            "price": "$23.59/yr",
+            "discount": "Save 75% with 12/mo term",
+            "serviceName": "SHARED HOSTING",
+            "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+            "features": [
+                "40 GB SSD",
+                "30 Websites",
+                " Free CDN BETA",
+                "TLDs On Offer"
+            ]
+        },
+        {
+            "id": 3,
+            "type": "Hosting Hosting",
+            "price": "$26.43/yr",
+            "discount": "Save 10% with 12/mo term",
+            "serviceName": "SHARED HOSTING",
+            "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+            "features": [
+                "35 GB SSD",
+                "25 Websites",
+                "Not Free CDN BETA",
+                "TLDs On Offer"
+            ]
+        },
+        {
+            "id": 4,
+            "type": "Stellar Hosting",
+            "price": "$43.23/yr",
+            "discount": "Save 69% with 12/mo term",
+            "serviceName": "SHARED HOSTING",
+            "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+            "features": [
+                "31 GB SSD",
+                "68 Websites",
+                "Not Free CDN BETA",
+                "TLDs On Offer"
+            ]
+        },
+        {
+            "id": 5,
+            "type": "Hosting Stellar",
+            "price": "$32.59/yr",
+            "discount": "Save 42% with 12/mo term",
+            "serviceName": "HOSTING SHARED",
+            "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+            "features": [
+                "68 GB SSD",
+                "13 Websites",
+                "Not Free CDN BETA",
+                "TLDs On Offer"
+            ]
+        },
+        {
+            "id": 6,
+            "type": "Virtual Servers",
+            "price": "$25.59/yr",
+            "discount": "Save 30% with 12/mo term",
+            "serviceName": "HOSTING SHARED",
+            "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+            "features": [
+                "102 GB SSD",
+                "68 Websites",
+                "Not Free CDN BETA",
+                "TLDs On Offer"
+            ]
+        },
+        {
+            "id": 7,
+            "type": "Dedicated Servers",
+            "price": "$65.59/yr",
+            "discount": "Save 50% with 12/mo term",
+            "serviceName": "HOSTING SHARED",
+            "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+            "features": [
+                "02 GB SSD",
+                "64 Websites",
+                "Not Free CDN BETA",
+                "TLDs On Offer"
+            ]
+        },
+        {
+            "id": 8,
+            "type": "Web Hosting",
+            "price": "$75.59/yr",
+            "discount": "Save 25% with 12/mo term",
+            "serviceName": "HOSTING SHARED",
+            "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+            "features": [
+                "16 GB SSD",
+                "69 Websites",
+                "Not Free CDN BETA",
+                "TLDs On Offer"
+            ]
+        },
+        {
+            "id": 9,
+            "type": "Stellar",
+            "price": "$74.59/yr",
+            "discount": "Save 96% with 12/mo term",
+            "serviceName": "HOSTING SHARED",
+            "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+            "features": [
+                "49 GB SSD",
+                "43 Websites",
+                "Not Free CDN BETA",
+                "TLDs On Offer"
+            ]
+        }
+    ],
+    "choseService": [
+        {
+            "id": 1,
+            "icon": "../../asstes/serviceLogo/User.png",
+            "title": "User Panel",
+            "description": "If you're not happy, we'll refund your hosting fees in the first 30days."
+        },
+        {
+            "id": 2,
+            "icon": "../../asstes/serviceLogo/moneyback.png",
+            "title": "Money Back Guarantee",
+            "description": "We work when work. Whenever that happens to be."
+        },
+        {
+            "id": 3,
+            "icon": "../../asstes/serviceLogo/ssl.png",
+            "title": "Free SSL",
+            "description": "If you're not happy, we'll refund your hosting fees in the first"
+        },
+        {
+            "id": 4,
+            "icon": "../../asstes/serviceLogo/migration.png",
+            "title": "Free Migration",
+            "description": "If you're not happy, we'll refund your hosting fees in the first 30days."
+        },
+        {
+            "id": 5,
+            "icon": "../../asstes/serviceLogo/update.png",
+            "title": "99.99% Update",
+            "description": "We work when work. Whenever that happens to be."
+        },
+        {
+            "id": 6,
+            "icon": "../../asstes/serviceLogo/affordable.png",
+            "title": "Affordable Price",
+            "description": "If you're not happy, we'll refund your hosting fees in the first 30days."
+        },
+        {
+            "id": 7,
+            "icon": "../../asstes/serviceLogo/cloud.png",
+            "title": "Cloud Backup",
+            "description": "If you're not happy, we'll refund your hosting fees in the first 30days."
+        },
+        {
+            "id": 8,
+            "icon": "../../asstes/serviceLogo/serverSecurity.png",
+            "title": "Server Security",
+            "description": "We work when work. Whenever that happens to be."
+        },
+        {
+            "id": 9,
+            "icon": "../../asstes/serviceLogo/support.png",
+            "title": "24/7/365 Support",
+            "description": "We work when work. Whenever that happens to be."
+        }
+    ],
+    "UserOriented": [
+        {
+            "id": 1,
+            "url": "../../asstes/userOrientedicon/migrate.png",
+            "title": "Migrate new customers with ease",
+            "description": "Transfer cPanel accounts from remote servers with no hassle. Migrations are simple  our in house technical support team will navigate the process for you."
+        },
+        {
+            "id": 2,
+            "url": "../../asstes/userOrientedicon/customize.png",
+            "title": "Customize and brand your service",
+            "description": "Invite your customers to use a dashboard that's perfectly fitted to your brand. Customize styling and notifications to deliver the power of cPanel with the feel of your company."
+        },
+        {
+            "id": 3,
+            "url": "../../asstes/userOrientedicon/view.png",
+            "title": "View, analyze, & diagnose server stats",
+            "description": "Understand everything that is going on with your machine with our advanced server monitor tools. View how resources are being utilized and get actionable insights on potential issues happening on your network."
+        },
+        {
+            "id": 4,
+            "url": "../../asstes/userOrientedicon/cpanel.png",
+            "title": "Create cPanel accounts & hosting packages",
+            "description": "Launch cPanel user accounts and create custom hosting packages for your customers. Choose the services you want to provide, create pricing tiers, and scale your hosting business."
+        },
+        {
+            "id": 5,
+            "url": "../../asstes/userOrientedicon/secure.png",
+            "title": "Secure your system at various levels",
+            "description": "Protect your machines and your customers with all of the security tools baked into cPanel."
+        },
+        {
+            "id": 6,
+            "url": "../../asstes/userOrientedicon/publish.png",
+            "title": "Publish a website",
+            "description": "Allow your customers to choose from the most popular site builders to launch their web presence or give them the resources to build and monitor their own websites from the ground up."
+        }
+    ],
+    "faq": [
+        {
+            "id": 1,
+            "question": "What is web hosting?",
+            "answer": "Web hosting is a service that allows individuals and organizations to make their websites accessible on the internet. It involves storing website files on a server connected to the internet so that users can access them anytime."
+        },
+        {
+            "id": 2,
+            "question": "What types of hosting services do you offer?",
+            "answer": "We offer a range of hosting services, including shared hosting, VPS (Virtual Private Server) hosting, dedicated server hosting, and cloud hosting. Each type caters to different needs and budgets."
+        },
+        {
+            "id": 3,
+            "question": "What is shared hosting?",
+            "answer": "Shared hosting is a cost-effective hosting option where multiple websites share resources on the same server. It's suitable for small websites and businesses with moderate traffic."
+        },
+        {
+            "id": 4,
+            "question": "What is VPS hosting?",
+            "answer": "VPS hosting provides a virtual server with dedicated resources within a shared environment. It offers more control and scalability compared to shared hosting."
+        },
+        {
+            "id": 5,
+            "question": "What is dedicated server hosting?",
+            "answer": "Dedicated server hosting provides an entire physical server dedicated to a single customer. It offers maximum performance, control, and security and is ideal for large websites or applications."
+        },
+        {
+            "id": 6,
+            "question": "What is cloud hosting?",
+            "answer": "Cloud hosting utilizes a network of virtual servers to provide flexibility and scalability. It's suitable for websites with fluctuating traffic and resource demands."
+        },
+        {
+            "id": 7,
+            "question": "How do I choose the right hosting plan for my needs?",
+            "answer": "We recommend assessing your website's size, traffic, and resource requirements. Our customer support team can also assist in selecting the most suitable plan."
+        },
+        {
+            "id": 8,
+            "question": "Can I transfer my existing website to your hosting service?",
+            "answer": "Yes, we offer website migration services to help you seamlessly transfer your website to our servers. Our experts will assist you throughout the process."
+        },
+        {
+            "id": 9,
+            "question": "What security measures do you have in place to protect my website?",
+            "answer": "We implement a range of security features, including firewalls, DDoS protection, regular backups, and SSL certificates. You can also add additional security options as needed."
+        },
+        {
+            "id": 10,
+            "question": "How do I contact customer support if I encounter issues?",
+            "answer": "- You can reach our customer support team 24/7 through email, live chat, or phone. We are here to assist you with any technical or account-related issues."
+        },
+        {
+            "id": 11,
+            "question": "Do you offer a money-back guarantee?",
+            "answer": "- Yes, we offer a 30-day money-back guarantee for most of our hosting plans. If you're not satisfied with our services, you can request a refund within the specified period."
+        },
+        {
+            "id": 12,
+            "question": "What is the uptime guarantee for your hosting service?",
+            "answer": "- We provide a 99.9% uptime guarantee, ensuring that your website remains accessible to users around the clock. In the rare event of downtime, we work diligently to resolve issues quickly."
+        }
+    ]
+}

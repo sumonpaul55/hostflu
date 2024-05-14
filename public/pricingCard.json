@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "type": "Stellar",
+        "price": "$34.59/yr",
+        "discount": "Save 75% with 12/mo term",
+        "serviceName": "SHARED HOSTING",
+        "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+        "features": [
+            "20 GB SSD",
+            "3 Websites",
+            " Free CDN BETA",
+            "TLDs On Offer"
+        ]
+    },
+    {
+        "id": 2,
+        "type": "Reseller Hosting",
+        "price": "$23.59/yr",
+        "discount": "Save 75% with 12/mo term",
+        "serviceName": "SHARED HOSTING",
+        "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+        "features": [
+            "40 GB SSD",
+            "30 Websites",
+            " Free CDN BETA",
+            "TLDs On Offer"
+        ]
+    },
+    {
+        "id": 3,
+        "type": "Hosting Hosting",
+        "price": "$26.43/yr",
+        "discount": "Save 10% with 12/mo term",
+        "serviceName": "SHARED HOSTING",
+        "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+        "features": [
+            "35 GB SSD",
+            "25 Websites",
+            "Not Free CDN BETA",
+            "TLDs On Offer"
+        ]
+    },
+    {
+        "id": 4,
+        "type": "Stellar Hosting",
+        "price": "$43.23/yr",
+        "discount": "Save 69% with 12/mo term",
+        "serviceName": "SHARED HOSTING",
+        "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+        "features": [
+            "31 GB SSD",
+            "68 Websites",
+            "Not Free CDN BETA",
+            "TLDs On Offer"
+        ]
+    },
+    {
+        "id": 5,
+        "type": "Hosting Stellar",
+        "price": "$32.59/yr",
+        "discount": "Save 42% with 12/mo term",
+        "serviceName": "HOSTING SHARED",
+        "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+        "features": [
+            "68 GB SSD",
+            "13 Websites",
+            "Not Free CDN BETA",
+            "TLDs On Offer"
+        ]
+    },
+    {
+        "id": 6,
+        "type": "Virtual Servers",
+        "price": "$25.59/yr",
+        "discount": "Save 30% with 12/mo term",
+        "serviceName": "HOSTING SHARED",
+        "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+        "features": [
+            "102 GB SSD",
+            "68 Websites",
+            "Not Free CDN BETA",
+            "TLDs On Offer"
+        ]
+    },
+    {
+        "id": 7,
+        "type": "Dedicated Servers",
+        "price": "$65.59/yr",
+        "discount": "Save 50% with 12/mo term",
+        "serviceName": "HOSTING SHARED",
+        "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+        "features": [
+            "02 GB SSD",
+            "64 Websites",
+            "Not Free CDN BETA",
+            "TLDs On Offer"
+        ]
+    },
+    {
+        "id": 8,
+        "type": "Web Hosting",
+        "price": "$75.59/yr",
+        "discount": "Save 25% with 12/mo term",
+        "serviceName": "HOSTING SHARED",
+        "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+        "features": [
+            "16 GB SSD",
+            "69 Websites",
+            "Not Free CDN BETA",
+            "TLDs On Offer"
+        ]
+    },
+    {
+        "id": 9,
+        "type": "Stellar",
+        "price": "$74.59/yr",
+        "discount": "Save 96% with 12/mo term",
+        "serviceName": "HOSTING SHARED",
+        "description": "Great for those who are just getting started with their website and are looking to stay within on a budget.",
+        "features": [
+            "49 GB SSD",
+            "43 Websites",
+            "Not Free CDN BETA",
+            "TLDs On Offer"
+        ]
+    }
+]
